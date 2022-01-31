@@ -1,0 +1,15 @@
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.csproj.AssemblyReference.cache
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.AssemblyInfoInputs.cache
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.AssemblyInfo.cs
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.csproj.CoreCompileInputs.cache
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\C#Console.exe
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\C#Console.deps.json
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\C#Console.runtimeconfig.json
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\C#Console.dll
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\ref\C#Console.dll
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\bin\Debug\net6.0\C#Console.pdb
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.dll
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\ref\C#Console.dll
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.pdb
+C:\Users\GW_Ev\OneDrive\Desktop\C#Console\obj\Debug\net6.0\C#Console.genruntimeconfig.cache
