@@ -25,6 +25,19 @@
             Console.WriteLine(" ");
         }
 
+        if (userInt ==2)
+        {
+            Console.WriteLine("Enter Side 1 Length: ");
+            string sSide1 = Console.ReadLine();
+            Console.WriteLine("Enter Side 2 Length: ");
+            string sSide2 = Console.ReadLine();
+            int iSide1 = Convert.ToInt32(sSide1);
+            int iSide2 = Convert.ToInt32(sSide2);
+            int area = iSide1 * iSide2;
+            Console.WriteLine("Area is : "+area);
+        }
+
+
         if (userInt == 5)
         {
         Environment.Exit(0);
