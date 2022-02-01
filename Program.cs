@@ -7,6 +7,7 @@
             
         Console.WriteLine("Hello World!");
         int userInt = 0;
+        string string1 = "Alice was beginning to get very tired of sitting by her sister on the bank, and having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice' without pictures or conversation?'";
 
         while (userInt != 7)
         {
@@ -44,6 +45,13 @@
             float milesPerG = milesDr / gallonsUsed;
             Console.WriteLine("You are getting "+milesPerG+" MPG");
             Console.WriteLine(" "); //empty space to separate from menu
+        }
+        if (userInt ==4)
+        {
+            Console.WriteLine("Enter a word to search for within the string: ");
+            string userString = Console.ReadLine();
+            string1 = string1.ToLower();
+            Console.WriteLine(string1.Contains(userString));
         }
 
 
