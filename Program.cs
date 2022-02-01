@@ -28,13 +28,22 @@
         if (userInt ==2)
         {
             Console.WriteLine("Enter Side 1 Length: ");
-            string sSide1 = Console.ReadLine();
+            int side1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Side 2 Length: ");
-            string sSide2 = Console.ReadLine();
-            int iSide1 = Convert.ToInt32(sSide1);
-            int iSide2 = Convert.ToInt32(sSide2);
-            int area = iSide1 * iSide2;
-            Console.WriteLine("Area is : "+area);
+            int side2 = Convert.ToInt32(Console.ReadLine());
+            int area = side1 * side2;
+            Console.WriteLine("Total area is : "+area);
+        }
+
+        if (userInt ==3)
+        {
+            Console.WriteLine("How many miles did you drive? ");
+            int milesDr = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("How many gallons used? ");
+            int gallonsUsed = Convert.ToInt32(Console.ReadLine());
+            float milesPerG = milesDr / gallonsUsed;
+            Console.WriteLine("You are getting "+milesPerG+" MPG");
+            Console.WriteLine(" "); //empty space to separate from menu
         }
 
 
